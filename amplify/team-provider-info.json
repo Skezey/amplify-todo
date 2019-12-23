@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-todo-dev-82250-authRole",
+            "UnauthRoleArn": "arn:aws:iam::729578694003:role/amplify-todo-dev-82250-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::729578694003:role/amplify-todo-dev-82250-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-todo-dev-82250-deployment",
+            "UnauthRoleName": "amplify-todo-dev-82250-unauthRole",
+            "StackName": "amplify-todo-dev-82250",
+            "StackId": "arn:aws:cloudformation:us-east-1:729578694003:stack/amplify-todo-dev-82250/1671e0c0-2598-11ea-a65b-127e9735111e",
+            "AmplifyAppId": "d1gi2o5od8ilmo"
+        },
+        "categories": {
+            "auth": {
+                "todobb734a96": {}
+            }
+        }
+    }
+}

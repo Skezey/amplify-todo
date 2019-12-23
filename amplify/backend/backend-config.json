@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"todobb734a96": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
